@@ -1,0 +1,36 @@
+import Message from "@/models/Message";
+
+const messages = [
+    new Message('johndoe', 'John', 'Doe', 'Hey, you want to play UNO and I can record it for my upload tonight?'),
+    new Message('janedae', 'Jane', 'Dae', 'I don\'t have UNO on my Xbox'),
+    new Message('johndoe', 'John', 'Doe', 'Everyone has UNO on their Xbox you idiot. It came free with your Xbox'),
+    new Message('janedae', 'Jane', 'Dae', 'I didn\'t get it, I have the oldest Xbox known to man'),
+    new Message('johndoe', 'John', 'Doe', 'No you don\'t, I got mine on day one stupid'),
+    new Message('janedae', 'Jane', 'Dae', 'Well mine didn\'t have it'),
+    new Message('johndoe', 'John', 'Doe', 'YOU HAVE UNO'),
+    new Message('janedae', 'Jane', 'Dae', 'I DON\'T HAVE IT YOU JERK'),
+    new Message('johndoe', 'John', 'Doe', 'YOU HAVE UNOOOOOOO'),
+    new Message('janedae', 'Jane', 'Dae', 'I DON\'T HAVE IT QUIT YELLING AT ME'),
+    new Message('johndoe', 'John', 'Doe', 'GO ON THE ARCADE AND DOWNLOAD IT FOR FREE'),
+    new Message('janedae', 'Jane', 'Dae', 'I DON\'T HAVE TWO'),
+    new Message('janedae', 'Jane', 'Dae', 'I DON\'T HAVE THREE'),
+    new Message('janedae', 'Jane', 'Dae', 'I DON\'T HAVE FOUR'),
+    new Message('johndoe', 'John', 'Doe', 'IT\'S FREE, JUST DOWNLOAD IT'),
+    new Message('janedae', 'Jane', 'Dae', 'I DON\'T HAVE SIX'),
+    new Message('janedae', 'Jane', 'Dae', 'I DON\'T HAVE SEVEN'),
+    new Message('janedae', 'Jane', 'Dae', 'I DON\'T HAVE EIGHT'),
+    new Message('janedae', 'Jane', 'Dae', 'NINE'),
+    new Message('johndoe', 'John', 'Doe', 'THEY DON\'T EVEN CHARGE FOR IT'),
+    new Message('janedae', 'Jane', 'Dae', 'TEN'),
+    new Message('janedae', 'Jane', 'Dae', 'ELEVEN'),
+    new Message('johndoe', 'John', 'Doe', 'YOU DON\'T KNOW WHAT YOU\'RE TALKING ABOUT'),
+    new Message('janedae', 'Jane', 'Dae', 'TWELVE'),
+    new Message('janedae', 'Jane', 'Dae', 'AND I DEFINITELY DON\'T HAVE UNO'),
+    new Message('johndoe', 'John', 'Doe', 'IT\'S FREE, JUST DOWNLOAD IT'),
+    new Message('janedae', 'Jane', 'Dae', 'I DON\'T HAVE UNO'),
+    new Message('janedae', 'Jane', 'Dae', 'AND I DON\'T HAVE AN ARCADE EITHER'),
+    new Message('johndoe', 'John', 'Doe', 'NOW YOU\'RE JUST LYING'),
+    new Message('janedae', 'Jane', 'Dae', 'FORGET IT, I\'M NOT PLAYING WITH YOU ANYMORE'),
+]
+
+export default messages;
